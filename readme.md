@@ -8,7 +8,7 @@
 5. Restart the MCU
 6. in `UART1` Terminal Enter `S` to Start Sampling from ADC
 7. use `Enter` or `G` to record sample And Enter the Value of the voltmeter Show! (float in Volt)
-8. Rotate `Potensiometer` and enter the value from `Voltmeter` several times
+8. Rotate `Potensiometer` (From Low to Hi) and enter the value from `Voltmeter` several times
 9. Enter `P` to print result.
 10. copy result and use that in `ADC_Calculate`
 
